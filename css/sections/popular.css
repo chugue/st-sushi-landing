@@ -84,6 +84,7 @@
   border: none;
   outline: none;
   background: var(--secondary-color);
+  border-radius: 64px;
   cursor: pointer;
 }
 
@@ -125,7 +126,7 @@
   text-align: center;
 }
 
-.popular-foods__carfd-details {
+.popular-foods__card-details {
   width: 100%;
   margin-top: 32px;
 }
